@@ -1,6 +1,6 @@
-import EmployeeCard from "./components/EmployeeCard.tsx";
 import { useState } from "react";
 import "./App.css";
+import EmployeeCard from "./components/EmployeeCard.tsx";
 
 const sampleEmployee = {
   name: {
